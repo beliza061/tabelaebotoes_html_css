@@ -1,0 +1,49 @@
+*{
+    background-color: #ffc8dd;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.table {
+    margin-top: 20px;
+    text-align: center;
+    border-size: 2px;
+    border-color: black;
+    border-style: solid; 
+}
+th {
+  
+    padding: 10px;
+    border-size:2px;
+    border-color: black;
+    border-style: solid;
+}
+td {
+    width: none;
+    padding: 10px;
+    border-size: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.redes-sociais {
+    width: 300px;
+  }
+ a {
+    text-decoration: none;
+ }
+ .botao {
+    color:#000000;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 16px45px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #feeafa;
+    width: 300px;
+    margin: 10px;
+    font-size: 15px;
+  
+ }
+ 
